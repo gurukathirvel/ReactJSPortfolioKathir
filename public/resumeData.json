@@ -15,7 +15,7 @@
       "zip": "IG6"
     },
     "website": "",
-    "resumedownload": "https://drive.google.com/drive/folders/1MwVTw5UmRv7uPpV8hpEObakyTsgQ8T88?usp=sharing/KATHIRVEL_GURUSAMY_-_DevOpsAWS.pdf",
+    "resumedownload": "https://drive.google.com/drive/folders/1MwVTw5UmRv7uPpV8hpEObakyTsgQ8T88?usp=sharing/KathirvelGurusamy_DevOps.pdf",
     "social": [
       {
         "name": "facebook",
@@ -59,8 +59,8 @@
       {
         "company": "Affluent Tech",
         "title": "Product development Engineer ",
-        "years": "July 2019 - Present",
-        "description": "Product development Engineer"
+        "years": "July 2019 - Feb 2021",
+        "description": ""
       },
       {
         "company": "Tecosim Simulation",
@@ -84,7 +84,7 @@
       },
       {
         "name": "Jenkins",
-        "level": "30%"
+        "level": "50%"
       },
       {
         "name": "Vagrant",
@@ -100,7 +100,7 @@
       },
       {
         "name": "Ansible",
-        "level": "20%"
+        "level": "50%"
       },
       {
         "name": "Kubernetes",
@@ -152,11 +152,11 @@
     "testimonials": [
       {
         "text": "Amazing Learner & manage the team with proper planning.",
-        "user": "Ford Manager"
+        "user": "Manager"
       },
       {
         "text": "Timely & Quality deliver, responsible Team leader",
-        "user": "My Current Boss"
+        "user": "Manager"
       }
     ]
   }
