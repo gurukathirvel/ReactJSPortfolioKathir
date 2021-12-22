@@ -50,11 +50,17 @@
       }
     ],
     "work": [
+       {
+        "company": "Close Brother Premium Finance",
+        "title": "DevOps Engineer ",
+        "years": "March 2021 - Present",
+        "description": "DevOps Engineer"
+      }
       {
         "company": "Affluent Tech",
-        "title": "AWS Cloud | DevOps ",
+        "title": "Product development Engineer ",
         "years": "July 2019 - Present",
-        "description": "AWS Cloud & DevOps"
+        "description": "Product development Engineer"
       },
       {
         "company": "Tecosim Simulation",
